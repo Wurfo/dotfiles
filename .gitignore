@@ -1,0 +1,17 @@
+# ignore everything
+*
+
+# keep these
+!.gitignore
+
+!aerospace/
+!aerospace/**
+
+!iterm2/
+!iterm2/**
+
+!kitty/
+!kitty/**
+
+!tmux/
+!tmux/**
